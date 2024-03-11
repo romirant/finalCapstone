@@ -1,0 +1,10 @@
+User Overview Report
+Total users: 1
+Total tasks: 0
+
+User: admin
+Assigned tasks: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of assigned tasks completed: 0.00%
+Percentage of assigned tasks uncompleted: 0.00%
+Percentage of assigned tasks overdue: 0.00%
